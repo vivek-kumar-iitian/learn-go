@@ -1,2 +1,2 @@
 ### Go!
-This repository tracks my journey in learning Go!
+This repository tracks my Go learning journey!!
